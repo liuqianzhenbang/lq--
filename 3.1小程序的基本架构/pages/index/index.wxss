@@ -1,0 +1,8 @@
+/**index.wxss**/
+.fontStyle{/*定义样式类*/
+  font-family:cursive;/*字体类型*/
+  font-size: 20px;/*字体大小*/
+  text-indent: 40px;/*首行缩进*/
+  letter-spacing: 0px;
+  line-height: 25px;
+}
